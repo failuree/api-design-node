@@ -1,4 +1,4 @@
- var Category = require('./categoryModel');
+var Category = require('./categoryModel');
 var _ = require('lodash');
 
 exports.params = function(req, res, next, id) {
